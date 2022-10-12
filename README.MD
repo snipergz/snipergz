@@ -17,7 +17,7 @@ I am a hard worker who loves to learn, never quit, and prides myself in giving m
 - :technologist: Interned as a Software Test Engineer for Visa
 
 ### &#8594; Resume
-- :office_worker:	PDF Resume
+- :office_worker:	[PDF Resume](https://github.com/snipergz/Resume/blob/main/Mike_Panuelos_Resume.pdf)
 - :astonished: Digital Resume
 
 ### &#8594; Let's Connect
