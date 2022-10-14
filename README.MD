@@ -22,3 +22,14 @@ I am a hard worker who loves to learn, never quit, and prides myself in giving m
 
 ### &#8594; Let's Connect
 - :blue_book:	[LinkedIn](https://www.linkedin.com/in/mikepanuelos/)
+
+### &#8594; Published Short Stories
+- :space_invader: Repulsion Boy:
+  - [Online Publication](https://www.utrgvrider.com/wp-content/uploads/2020/11/Oct.-26-PDF.pdf)
+  - [PDF Version]()
+- :zombie_man: Don't Become a Zombie:
+  - [Online Publication](https://www.utrgvrider.com/wp-content/uploads/2021/04/April-5-PDF-1-1.pdf)
+  - [PDF Version]()
+- :musical_keyboard: Finding Your Flow:
+  - [Online Publication](https://www.utrgvrider.com/msa-authors-corner/)
+  - [PDF Version]()
