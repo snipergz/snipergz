@@ -2,7 +2,7 @@
 
 ### &#8594; About me
 
-I am a hard worker who loves to learn, never quit, and prides myself in giving my all to whatever task is before me. I love God, basketball, and my family, and I aspire to become a developer that uses technology as a way to serve and improve lives.
+I am a hard worker who loves to learn, never quit, and prides myself in giving my all to whatever task is before me. I love God, my family, and basketball, and I aspire to become a developer that uses technology as a way to serve and improve lives.
 
 ### &#8594; Skills
 - :monocle_face: Learning with a growth mindset
