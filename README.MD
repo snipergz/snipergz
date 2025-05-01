@@ -13,6 +13,7 @@ I am a hard worker who loves to learn, never quit, and prides myself in giving m
 - :fearful: Unafraid to take the road less taken
 
 ### &#8594; Experiences
+- :globe_with_meridians: Software Engineer at AT&T
 - :computer: Web Developer for UTRGV's Office for Sustainability
 - :technologist: Interned as a Software Test Engineer for Visa
 
